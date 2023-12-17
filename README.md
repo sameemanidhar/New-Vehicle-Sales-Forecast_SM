@@ -30,7 +30,10 @@ The project consisted of 5 models. Multivariate Linear Regression Model, two sta
 ## Results
 The provided code demonstrates various techniques to assess and transform time series data for forecasting new vehicle sales. A fully functional interactive dashboard was created and deployed based on these machine learning models.
 
-### Dashboard
+### Dashboard 
+https://sales-forecasting-dashboard-sm.streamlit.app
+
+
 ![Light1](https://github.com/sameemanidhar/New-Vehicle-Sales-Forecast_SM/assets/153468609/7e445b9a-98b1-42ae-8fd8-dcab6fdc95df)
 
 
